@@ -1,0 +1,5 @@
+types of main division in GSE:
+    1) Top division
+    2) Centered division
+    3) Bottom division 
+
