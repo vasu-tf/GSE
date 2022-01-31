@@ -1,0 +1,14 @@
+Top subdivision:
+    1-gmails
+    2-images
+    3-profile
+    4-google apps
+Centered subdivion:
+    1-search bar
+    2-mails
+    3-inbox
+    4-youtube
+    5-webstore
+    6-add shortcut
+Bottom subdivision:
+    1-customize settings
